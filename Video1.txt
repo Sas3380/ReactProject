@@ -1,0 +1,60 @@
+All about ReactJS (different padagogy)
+
+----------------Roadmap-----------------
+
+hype => that react is everything 
+
+Why to learn ReactJS?
+=>hype, job, trend, buildUI
+=>makes easy to manage & build complex frontend 
+
+When should I learn ReactJS?
+=>After mastering JS 
+=>most projects don't need react in initial stages 
+
+Why react was created?
+Facebook => problem (Ghost message problem)
+If anyone have read the message still there the notification was showing 
+
+State => managed by JS
+UI    => managed by DOM
+
+Connection between JS state and js DOM 
+dono sync hone chahye thay 
+Was no consistency in the UI 
+Khan academy then adopted by unsplash 
+aik button say 3 4 jaga cheeza update hona hai 
+
+ReactJS learning process:
+1.indepth => basics like babel, fibre, virtual dom , diff algo, hydration
+2. projects => projects towards theory 
+
+React is a library=>
+framework => military (have solid rules and strict)
+library => no rules but have more freedom, library is smaller
+
+Topics to learn 
+1.core => (state manupulation,JSX)
+2.components reuseability 
+3.reusing of components(props)
+4.How to propagate changes(hooks)
+5.single page application
+
+Additional addons to react:
+1.Router (react-router-dom)=> new library
+2.State management(React don't have state management)
+   =>Redux , Redux toolkit, zustand, context API 
+3.Class based components 
+   =>lagacy code (eg. component mounted , unmounted)
+4.BAAS apps 
+   =>Backend as a service => eg. appwrite , firebase, supabase you don't need the backend there 
+
+After React:
+No seo in react, no routing, browser rendering issue so the application may load slower
+Framework => NextJS (frontend as well as backend)
+
+
+
+
+
+
